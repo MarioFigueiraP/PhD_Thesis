@@ -4,7 +4,15 @@ En este documento indico brevemente los pasos que han sido requeridos, y las dif
 
 El contenido se presenta estructurado en la siguientes secciones:
 
-1. Procedimientos formales
+<ol>
+  <li>Procedimientos formales</li>
+    <ol>
+      <li>Depósito</li>
+      <li>Defensa</li>
+    </ol>
+  </li>
+  <li>Test</li>
+</ol> 
 
 ## Procedimientos formales
 
