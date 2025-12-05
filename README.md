@@ -5,9 +5,6 @@ En este documento indico brevemente los pasos que han sido requeridos, y las dif
 El contenido se presenta estructurado en la siguientes secciones:
 
 1. Procedimientos formales
-  1.1 Depósito
-  1.2 Defensa
-2. Diario de un naufragio
 
 ## Procedimientos formales
 
