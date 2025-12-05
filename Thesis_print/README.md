@@ -1,1 +1,1 @@
-En esta carpeta se presentan los ficheros empelados para la impresión final de la Tesis. El documento PDF de la tesis y el fichero (.pptx) con la portada de la misma.
+En esta carpeta se presentan los ficheros empelados para la impresión final de la Tesis. El documento PDF de la tesis ha sido divido en dos <<Thesis_Mario-1>> y <<Thesis_Mario-2>>, por limitaciones de espacio de github para archivos individuales. Finalmente, el fichero (.pptx) contiene la portada de la tesis empleada en su impresión.
