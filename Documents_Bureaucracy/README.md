@@ -1,1 +1,1 @@
-Some different official documents related to the submission, evaluation, and defense.
+Documentos oficiales relativos al envío, evaluación y defensa de la tesis doctoral.
