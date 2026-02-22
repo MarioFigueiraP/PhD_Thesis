@@ -2,7 +2,7 @@
 
 The repository contains a description of the procedures carried out for the submission and defense of the doctoral thesis, as well as various documents relevant to the preparation of the thesis itself; the content is presented in *Spanish*. However, the defense procedure was conducted entirely in *English*, so the **presentation content for the defense, together with the supplementary slides** prepared for the question-and-answer session, **are available in *English***. See the [**Thesis Presentation**](https://github.com/MarioFigueiraP/PhD_Thesis/blob/main/Presentation/Thesis_Presentation.html) file, or the preview of the [**HTML presentation**](https://html-preview.github.io/?url=https://github.com/MarioFigueiraP/PhD_Thesis/blob/main/Presentation/Thesis_Presentation.html), along with the PDF file containing the [**supplementary slides**](https://github.com/MarioFigueiraP/PhD_Thesis/blob/main/Presentation/Thesis_Presentation_Supplementary_Slides.pdf); both are located in the *Presentation* folder. 
 
-# PhD Thesis
+# Overview
 
 El repositorio contiene una descripción de los procedimientos realizados para el depósito y defensa de la tesis doctoral, y diversos documentos relevantes para la elaboración de la propia tesis.
 
