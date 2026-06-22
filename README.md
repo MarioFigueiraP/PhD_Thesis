@@ -52,7 +52,7 @@ Para el depósito a 5/12/2025 en la *Universitat de València (Estudi General)*,
   <li><b>Documento certificando la coautoria</b> (requerido por ser compendio).</li>
 </ol>
 
-#### 1. Justificación del total de créditos requeridos
+% #### 1. Justificación del total de créditos requeridos
 
-En la justificación de los créditos se debe obtener el equivalente a 600 horas a través de las actividades trasversales . Esto, para el programa de 
+% En la justificación de los créditos se debe obtener el equivalente a 600 horas a través de las actividades trasversales . Esto, para el programa de 
 
